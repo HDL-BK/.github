@@ -2,7 +2,9 @@
 
 ## 🎯 Mục tiêu
 - Ôn tập giữa kì và cuối kì
-- 
+- Học về ngôn ngữ Verilog và cách hoạt động của nó
+- Các bài tập về Verilog
+- Học thêm SystemVerilog
 
 --- 
 
@@ -10,16 +12,26 @@
 
 | Buổi  | Nội dung chính |
 |-----|----------------|
+| **BT1** | Kiến thức cơ bản đến nâng cao Verilog  |
+| **BT2** | Triển khai Verilog với các mạch học được ở Hệ Thống Số |
+| **BT3** | Thiết kế máy trạng thái và hiện thực máy trạng thái với ngôn ngữ Verilog |
+| **BT4** | Sử dụng Verilog hiện thực ứng dụng |
+| **BT5** | Kiến thức cơ bản SystemVerilog |
+| **BT6** | Hiện thực BTL HK252  |
 
 
 --- 
 
-## 📖 Cách học Discord là nơi chính để học tập và làm việc:
-- Mỗi bạn sẽ có **2 kênh riêng** (chỉ bạn và anh thấy):  
-- 🔹 `ID-chat-Tên`: Kênh riêng để **hỏi bài, trao đổi**  
-- 🔹 `ID-bot-Tên`: Kênh riêng để **nộp bài, chạy test case, chấm kết quả**  
-- 🔹 Ngoài ra sẽ có **các kênh chung, nộp bài chung, thông báo** cho cả nhóm:  
-- **Hỏi đáp, hỗ trợ, chấm test case** sẽ thực hiện trực tiếp qua **Discord**
+## 📖 Cách học
+- Sẽ có **meeting** trong các buổi BTL để thảo luận và hướng dẫn  
+- Mỗi **Task** có thể sẽ có **record** (video/ghi âm) để tham khảo lại nếu cần  
+- **Discord** là nơi chính để học tập và làm việc:
+  - Mỗi bạn sẽ có **2 kênh riêng** (chỉ bạn và anh thấy):  
+    - 🔹 `ID-chat-Tên`: Kênh riêng để **hỏi bài, trao đổi**  
+    - 🔹 `ID-bot-Tên`: Kênh riêng để **nộp bài, chạy test case, chấm kết quả**  
+    - 🔹 Ngoài ra sẽ có **các kênh chung, nộp bài chung, thông báo** cho cả nhóm:  
+  - **Hỏi đáp, hỗ trợ, chấm test case** sẽ thực hiện trực tiếp qua **Discord**
+
 
 ---
 
