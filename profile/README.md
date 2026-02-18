@@ -1,6 +1,7 @@
-# 📘 Khóa Học LTNC - HK252 
+# 📘 Khóa Học Thiết Kế Luận Lý - HK252 (Lý Thuyêt + Bài Tập + GK + CK + BT)
 
 ## 🎯 Mục tiêu
+- Ôn tập giữa kì và cuối kì
 - 
 
 --- 
@@ -9,7 +10,7 @@
 
 | Buổi  | Nội dung chính |
 |-----|----------------|
-| **BT1** | Lý thuyết + Bài tập trắc nghiệm OOP java  |
+
 
 --- 
 
