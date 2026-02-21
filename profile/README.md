@@ -5,6 +5,7 @@
 - Học về ngôn ngữ Verilog và cách hoạt động của nó
 - Các bài tập về Verilog
 - Học thêm SystemVerilog
+- Ôn đề thi cử nhân tài năng khoa học máy tính
 
 --- 
 
